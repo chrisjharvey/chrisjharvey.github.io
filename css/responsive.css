@@ -826,7 +826,7 @@
   @media only screen and (min-width: 1440px) {
     .about-img {
       height: 500px;
-      width: 700px;
+      width: 600px;
       margin-left: 5%;
     }
 
@@ -839,16 +839,16 @@
 
     .main-middle {
       height: 500px;
-      width: 750px;
+      width: 710px;
       float: left;
-      margin: 30px;
+      margin: 20px;
     }
 
     .main-content {
       text-align: center;
       line-height: 2;
       padding: 10px 20px;
-      margin: 10px 100px;
+      margin: 10px 10px;
     }
   }
 }

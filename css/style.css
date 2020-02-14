@@ -171,8 +171,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  background: #1c63b8;
-  color: #fff;
+ color: #1c63b8;
 }
 
 nav ul li a:not(:only-child):after {
@@ -556,8 +555,6 @@ nav ul li ul li a {
 }
 
 .gototop {
-  height: 50px;
-  width: 100%;
   background: #474747;
   text-align: center;
   padding: 15px;
@@ -571,6 +568,8 @@ nav ul li ul li a {
 .gototop a {
   text-decoration: none;
   color: #fff;
+  height: 50px;
+  width: 100%;
 }
 
 .totop:hover {
