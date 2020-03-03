@@ -41,7 +41,7 @@ hr {
   align-items: center;
 }
 .l-heading {
-  font-size: 4em;
+  font-size: 3em;
   /* padding-top: 250px;
   line-height: 1.7; */
 }
@@ -78,7 +78,7 @@ hr {
 .btn {
   display: inline-block;
   color: #fff;
-  font-size: 1.6em;
+  font-size: 1.3em;
   background: #1c63b8;
   padding: 20px 30px;
   border: none;
@@ -572,7 +572,7 @@ nav ul li ul li a {
   width: 100%;
 }
 
-.totop:hover {
+.gototop:hover {
   color: #1c63b8;
 }
 
