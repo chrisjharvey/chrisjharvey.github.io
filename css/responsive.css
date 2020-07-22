@@ -49,7 +49,7 @@
 
   .item-background:hover {
     margin: auto auto;
-    background: #1c63b8;
+   
   }
   /*End of Icons*/
 
@@ -58,9 +58,9 @@
   .why-box-left {
     display: none;
   }
+
   .why-box-right {
     width: 100%;
-    height: 800px;
     text-align: center;
     font-size: 1.1em;
     padding: 20px;
@@ -261,7 +261,7 @@
 @media only screen and (min-width: 600px) {
   
   .l-heading {
-    font-size: 2.5em;
+    font-size: 3rem;
     margin-top: 20px;
   }
   
@@ -296,7 +296,7 @@
 
   .item-background:hover {
     margin: auto auto;
-    background: #1c63b8;
+    
   }
 
   .why-box-left {
@@ -449,30 +449,18 @@
     padding: 2rem;
   }
 
-  .item-background {
-    margin: auto auto;
-  }
+  
 
-  .item-background:hover {
-    margin: auto auto;
-    background: #1c63b8;
-  }
+  
   .why-box-left {
     display: none;
   }
   .why-box-right {
     height: 500px;
-    font-size: 1em;
+    font-size: 1.2rem;
   }
 
-  .tick {
-    position: relative;
-    top: 10%;
-    left: 10px;
-    text-align: center;
-    padding-bottom: 10px;
-    line-height: 2;
-  }
+  
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
@@ -652,14 +640,7 @@
   }
   /* Extra large devices (large laptops and desktops, 1200px and up) */
   @media only screen and (min-width: 1200px) {
-    .tick {
-      position: relative;
-      top: 10px;
-      left: 10px;
-      text-align: center;
-      padding-bottom: 10px;
-      line-height: 2;
-    }
+    
 
     #footer {
       float: left;
